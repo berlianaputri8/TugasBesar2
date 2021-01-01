@@ -1,0 +1,19 @@
+Sumber Assets:
+
+assets/img
+    1.jpg (https://www.bing.com/images/search?view=detailV2&ccid=KNEO5rKD&id=997E50611B8FAD6939CEBAFF07628C490024C10F&thid=OIP.KNEO5rKDOW6y-fWoBkq33AHaK8&mediaurl=https%3a%2f%2fwww.bukukita.com%2fbabacms%2fdisplaybuku%2f112138_f.jpg&exph=800&expw=541&q=cover+buku+yang+fana+adalah+waktu&simid=608052303128955975&ck=92C5971F286CE4C63DE75357489CBC42&selectedIndex=2&FORM=IRPRST&ajaxhist=0)
+
+    2.jpg (https://www.bing.com/images/search?view=detailV2&ccid=Q4yjHXMT&id=07208FB6F58E1A23B7306C68F78BD61167102665&thid=OIP.Q4yjHXMT3lSQRhnwmLdDtAHaLJ&mediaurl=https%3a%2f%2fkomunitasruangbaca.files.wordpress.com%2f2016%2f12%2fsdrhdt.jpg&exph=1053&expw=700&q=cover+buku+seperti+dendam+rindu+harus&simid=608007618269809605&ck=5A3B79EA642CF785A097104D43B33A78&selectedIndex=0&FORM=IRPRST&ajaxhist=0)
+
+    3.jpg (https://www.bing.com/images/search?view=detailV2&ccid=R6jBUoTC&id=677AB7360C776DFD7730799F4D8A5DB7A18353A1&thid=OIP.R6jBUoTCkDtMtjp5RRZ4swHaKu&mediaurl=https%3a%2f%2fssvr.bukukita.com%2fbabacms%2fdisplaybuku%2f109796_f.jpg&exph=800&expw=552&q=cover+buku+kata+rintiksedu&simid=608037541410242955&ck=CFEEC28330C60115606A4566D4AFCA96&selectedIndex=0&FORM=IRPRST&ajaxhist=0)
+
+    4.jpg (https://www.bing.com/images/search?view=detailV2&ccid=hi%2ftoK1i&id=4B37976A11277C0912287CA7BE47B4E587A13522&thid=OIP.hi_toK1iRDXC_bJnIhUqaQAAAA&mediaurl=https%3a%2f%2finc.mizanstore.com%2faassets%2fimg%2fcom_cart%2fproduk%2f11-11-albuk-2.jpg&exph=374&expw=255&q=cover+buku+11+fiersa+besari&simid=608025146124468746&ck=683A2A6A95431557A00901DB16A46D1F&selectedIndex=0&FORM=IRPRST&ajaxhist=0)
+
+    bg.jpg (https://unsplash.com/photos/0BYiATZYLpU)
+
+    bg2.jpg (https://unsplash.com/photos/Z0uzZSM5i4M)
+
+    orang1.jpg (https://unsplash.com/photos/_M6gy9oHgII)
+
+    orang2.jpg (https://unsplash.com/photos/rDEOVtE7vOs)
+
